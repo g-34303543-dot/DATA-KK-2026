@@ -1,0 +1,8 @@
+{
+  "name": "Pembantu AI Kokurikulum SMK Muara Tuang",
+  "description": "Sistem Pembantu AI Pintar Kokurikulum SMK Muara Tuang 2026 untuk mengurus dan menyemak data murid serta guru secara interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
